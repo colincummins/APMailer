@@ -1,0 +1,59 @@
+# ==========================
+# Gradle
+# ==========================
+
+# Gradle cache
+.gradle/
+
+# Build output
+build/
+
+# Kotlin plugin data
+.kotlin/
+
+# ==========================
+# Java
+# ==========================
+
+# Compiled class files
+*.class
+
+# Packaged Java archives (optional)
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Log files
+*.log
+
+# ==========================
+# IDEs
+# ==========================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# ==========================
+# OS files
+# ==========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
